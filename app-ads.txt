@@ -1,6 +1,4 @@
-# validated by https://www.appbrain.com/app-ads-txt
-
-OWNERDOMAIN=cxqiji.com
+OWNERDOMAIN=【summergame777-rgb.github.io】
 chartboost.com,69379210b96993fe4b03c62e,DIRECT
 ironsrc.com, 247f4b4b5, Direct
 ironsrc.com, 2471e165d, Direct
@@ -244,8 +242,6 @@ google.com, pub-2923085774557613, RESELLER, f08c47fec0942fa0
 google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0
 google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa1
 pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
- 
-
 inmobi.com, 91d1b8b37d354d2ab71ef4c8a1f44fdf, DIRECT, 83e75a7ae333ca9d
 mintegral.com, 10003, RESELLER
 blis.com, 33, RESELLER, 61453ae19a4b73f4
